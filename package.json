@@ -1,0 +1,15 @@
+{
+  "name": "medical-bill-system",
+  "version": "1.0.0",
+  "description": "This is a Medical Billing System",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "Chakravarti Kothadiya",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
