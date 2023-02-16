@@ -1,5 +1,7 @@
 # Medical_Billing_GET_POST_Endpoints
 
+THIS IS THE LINK TO THE DEMO VIDEO: https://drive.google.com/drive/folders/1IdOVMA6m_LNIFfeHBVKZWuiKFqE5TMpJ
+
 Description: The Medical Bill will have the following object structure and it will be strored in a global variable in the local memory. 
 {
         "patient_name":"John Willson",
